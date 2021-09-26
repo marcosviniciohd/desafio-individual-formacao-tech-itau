@@ -16,14 +16,16 @@ Foi proposto a criação de uma página para cadastro, com os inputs de Nome, CP
 
 #### Linguagens
 
-- CSS
 - HTML
-- JavaScript
+- CSS
+- JAVASCRIPT
 
 #### Autoria
 
-- [Marcos Vinício](https://github.com/marcosviniciohd)
+- [Marcos Vinício Fernandes](https://github.com/marcosviniciohd)
 
   
 
+  
+  
   
