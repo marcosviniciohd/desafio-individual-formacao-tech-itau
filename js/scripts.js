@@ -214,8 +214,4 @@ function mascaraNumero(numero) {
   return numero;
 }
 
-function exibePopup(){
-  alert("Cadastro realizado com SUCESSO!")
-}
-
 
