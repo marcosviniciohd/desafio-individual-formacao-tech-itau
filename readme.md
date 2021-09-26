@@ -2,7 +2,7 @@
 ## Página para Cadastro Atração - Itaú
 #### Descrição
 
-Foi proposta a criação de uma página para cadastro, com os inputs de Nome, CPF, RG, Sexo, CEP, Endereço(Logradouro, Número, Complemento, Bairro, Cidade, Estado, Telefone Fixo e Celular). Os campos com ( * ) são obrigatórios o preenchimento. Os inputs de CPF e CEP são validados, em caso de erro um alerta é exibido. 
+Foi proposto a criação de uma página para cadastro, com os inputs de Nome, CPF, RG, Sexo, CEP, Endereço(Logradouro, Número, Complemento, Bairro, Cidade, Estado, Telefone Fixo e Celular). Os campos com ( * ) são obrigatórios o preenchimento. Os inputs de CPF e CEP são validados, em caso de erro um alerta será exibido. 
 
 ### Links de pesquisa
 
