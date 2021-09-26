@@ -10,6 +10,8 @@ Foi proposto a criação de uma página para cadastro, com os inputs de Nome, CP
 
   https://www.youtube.com/watch?v=hXUQpiW9Tho
 
+  https://xpcorp.gama.academy/aluno
+
   https://github.com/WybsonSantana/Cadastro-Programa-Formacao-Tech-Itau
 
 #### Linguagens
