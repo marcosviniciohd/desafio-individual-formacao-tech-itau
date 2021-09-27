@@ -74,10 +74,11 @@ input{
     padding: 10px;
     font-size: .9rem;
     margin-bottom: 40px;
+    border-radius: 10px;
 }
 
 input:focus{
-    border-color: #e68200;
+    border-color: #eb6d00;
 }
 
 input[type="submit"]{
