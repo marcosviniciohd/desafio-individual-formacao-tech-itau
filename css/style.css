@@ -77,6 +77,10 @@ input{
     border-radius: 10px;
 }
 
+select{
+    border-radius: 10px;
+}
+
 input:focus{
     border-color: #eb6d00;
 }
