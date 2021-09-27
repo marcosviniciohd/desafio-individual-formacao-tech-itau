@@ -214,4 +214,10 @@ function mascaraNumero(numero) {
   return numero;
 }
 
+function exibeAlert(){
+  if(document.getElementById("name").value != ("")) {
+      alert("Cadastro realizado com sucesso!");
+  }
+}
+
 
