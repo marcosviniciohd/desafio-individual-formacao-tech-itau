@@ -215,7 +215,7 @@ function mascaraNumero(numero) {
 }
 
 function exibeAlert(){
-  if(document.getElementById("name").value != ("")) {
+  if(document.getElementById("name").value != ("") && document.getElementById("cpf").value != ("") && document.getElementById("cep").value != ("") && document.getElementById("logradouro").value != ("") && document.getElementById("numero").value != ("") && document.getElementById("celular").value != ("") && document.getElementById("email").value != ("")) {
       alert("Cadastro realizado com sucesso!");
   }
 }
